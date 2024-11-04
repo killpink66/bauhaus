@@ -1,0 +1,683 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.block01{
+    width: 100%;
+    height: 957px;
+    text-align: center;
+    background-color: white
+}
+.block01 > img{
+    padding-top: 97px;
+}
+.block02{
+    width: 100%;
+    height: 251px;
+ 
+}
+.box01{
+    width: 100%;
+    height: 112px;
+    background-color: rgb(255, 255, 255);
+}  
+.textbox02{
+    width: 794px;
+    height: 88px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-size: 40pt;
+    font-family: "Noto Serif KR,", serif;
+
+}
+.box02{
+    width: 100%;
+    height: 127px;
+    background-color: rgb(255, 255, 255);
+}
+.block03{
+   width: 100%;
+   height: 144px;
+   position: relative;
+   background-color: rgb(0, 0, 0);
+}
+.textbox03{ 
+    width: 950px;
+    height: 74px;
+    font-size: 40px;
+    font-family: "Noto Serif KR,", serif;
+    margin: 0   auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+.block04{
+    width: 100%;
+    height: 232px;
+    color: white;
+    margin: 0 auto;
+
+}
+.box03{
+    width: 848px;
+    height: 292px;
+    margin: 0 auto;
+}
+.box04{
+    width: 100%;
+    height: 155px;
+    background-color: white;
+}
+.textbox04{
+    font-family:"Noto Serif KR,", serif;
+    width: 1466px;
+    height: 340px;
+    font-size: 40px;
+    color:#707070;
+    font-family: "Noto Serif KR,", serif;
+    outline: solid 1px black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
+.block05{
+    width: 100%;
+    height: 1145px;
+    background-color: #E8ECF2;
+
+}
+.box05{
+    width: 100%;
+    height: 60px;
+    background-color:#E8ECF2;
+
+}
+.textbox05{
+    width: 200%;
+    height: 340px;
+    color: #707070;
+    position: relative;
+    font-family: "Noto Serif KR,", serif;
+    font-size: 40px;
+    text-align: center;    
+}
+.box06{
+    width: 100%;
+    height: 139px;
+    background-color: rgb(255, 255, 255);
+
+}
+.block06{
+    width: 100%;
+    height: 127px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    
+}
+.textbox06{
+    width: 890px;
+    height: 180px;
+    font-size: 40px;
+    font-family: "Noto Serif KR,", serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    
+}
+.box07{
+    width: 100%;
+    height: 348px;
+    background-color: rgb(255, 255, 255);
+}
+.box08{
+    width: 100%;
+    height: 294px;
+    color: rgb(255, 255, 255);
+}
+.textbox07{
+    width: 100%;
+    height: 243px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Noto Serif KR,", serif;
+    outline: solid 1px black;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.box09{
+    width: 100%;
+    height: 294px;
+    color: black;
+}
+.box10{
+    width: 100%;
+    height: 322px;
+    background-color: white;
+    position: relative;
+}
+.line01{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+.block07{
+    width: 100%;
+    height: 285px;
+    background-color: rgb(255, 255, 255);
+
+}
+.textbox08{
+    width: 1671px;
+    height: 241px;
+    font-family: "Noto Serif KR,", serif;
+    text-align: center;
+    color: #707070;
+    font-family:"Noto Serif KR,", serif;
+    font-size: 40px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.block08{
+    width: 100%;
+    height: 214px;
+    background-color: rgb(255, 255, 255);
+}
+.box12{
+    width: 100%;
+    height: 207px;
+    background-color: rgb(255, 255, 255);
+
+}
+.line02{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+
+}
+.box13{
+    width: 100%;
+    height: 254px;
+    background-color: white;
+    
+}
+.box14{
+    width: 100%;
+    height: 56px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.textbox09{
+    width: 100%;
+    height: 146px;
+    font-size: 35px;
+    color: #000000;
+    font-family:"Noto Serif KR,", serif;
+    text-align: left;
+
+}
+.textbox10{
+    width: 100%;
+    height: 146px;
+    font-size: 35px;
+    color: #000000;
+    font-family:"Noto Serif KR,", serif;
+    text-align: center;
+}
+.textbox11{
+    width: 100%;
+    height: 160px;
+    font-size: 35px;
+    color: #707070;
+}
+.box15{
+    width: 100%;
+    height: 193px;
+    background-color: rgb(255, 255, 255);
+}
+.box16{
+    width: 100%;
+    height: 153px;
+    background-color: rgb(255, 255, 255);
+}
+
+.line03{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+.box17{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+
+}.box18{
+    width: 100%;
+    height: 114px;
+    background-color: rgb(255, 255, 255);
+
+}
+.line04{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+
+}
+.block09{
+    width: 100%;
+    height: 69px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox12{
+    width: 586px;
+    height: 229px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #707070;
+    font-family:"Noto Serif KR,", serif;
+    background-color: white;
+    margin: 0% auto;
+}
+.box19{
+    width: 100%;
+    height: 71px;
+    background-color: rgb(255, 255, 255);
+}
+.line05{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+.box20{
+    width: 100%;
+    height: 76px;
+    background-color: rgb(255, 255, 255);
+}
+.line06{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+.box21{
+    width: 100%;
+    height: 174px;
+    background-color: rgb(255, 255, 255);
+}
+.box22{
+    width: 100%;
+    height: 146px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox13{
+    width: 1328px;
+    height: 320px;
+    color: #707070;
+    font-family:"Noto Serif KR,", serif;
+    text-align: center;
+    
+}
+.box23{
+    width: 100%;
+    height: 110px;
+    background-color: rgb(255, 255, 255);
+}
+.line07{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+
+.box24{
+    width: 100%;
+    height: 270px;
+    background-color: rgb(255, 255, 255);
+}
+.box25{
+    width: 100%;
+    height: 211px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox14{
+    width: 1590px;
+    height: 532px;
+    color:#707070;
+    text-align: center;
+    font-family:"Noto Serif KR,", serif;
+
+}
+.box26{
+    width: 100%;
+    height: 189px;
+    background-color: rgb(255, 255, 255);
+}
+.line08{
+    width: 100%;
+    border: 4px solid rgb(0, 0, 0);
+}
+.box27{
+    width: 100%;
+    height: 204px;
+    background-color: rgb(255, 255, 255);
+
+}
+.box28{
+    width: 100%;
+    height:370px;
+    background-color: rgb(255, 255, 255);
+}
+.box29{
+    width: 100%;
+    height: 177px;
+    background-color: rgb(255, 255, 255);
+}
+.line09{
+    width: 100%;
+    border: 4px solid black;
+}
+.box30{
+    width: 100%;
+    height: 76px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox15{
+    width: 100%;
+    height: 179px;
+    color:#707070;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 50px;
+    font-family:"Noto Serif KR,", serif;
+}
+.box31{
+    width: 100%;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+}
+.line10{
+    width: 100%;
+    border: 4px solid black;
+}
+.box32{
+    width: 100%;
+    height: 195px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox16{
+    width: 100%;
+    height: 735px;
+    font-size: 40px;
+    font-family:"Noto Serif KR,", serif;
+}
+.box33{
+    width: 100%;
+    height: 135px;
+    background-color: rgb(255, 255, 255);
+}
+.line11{
+    width: 100%;
+    border: 4px solid black;
+}
+.box34{
+    width: 100%;
+    height: 279px;
+    background-color: rgb(255, 255, 255);
+}
+.box35{
+    width: 100%;
+    height:113px;
+    background-color: rgb(255, 255, 255);
+
+}
+.line12{
+    width: 100%;
+    border: 4px solid black;
+}
+.box36{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox17{
+    width: 100%;
+    height: 244px;
+    font-weight: bold; 
+    color: #707070;
+    text-align: center;
+    font-size: 40px;
+    font-family:"Noto Serif KR,", serif;
+}
+.box37{
+    width: 100%;
+    height: 48px;
+    background-color: rgb(255, 255, 255);
+}
+.line13{
+    width: 100%;
+    border: 4px solid black;
+}
+.box38{
+    width: 100%;
+    height: 175px;
+    background-color: rgb(255, 255, 255);
+
+}
+.textbox18{
+    width: 100%;
+    height: 173px;
+    color: #707070;
+    text-align: center;
+    font-size: 35px;
+    font-family:"Noto Serif KR,", serif;
+
+}
+.box39{
+    width: 100%;
+    height: 175px;
+    background-color: rgb(250, 255, 253);
+}
+.textbox19{
+    width: 100%;
+    height: 570px;
+    color: #707070;
+    text-align: center;
+    font-size: 36px;
+    font-family:"Noto Serif KR,", serif;    
+}
+.box40{
+    width: 100%;
+    height: 175px;
+    background-color: rgb(255, 255, 255);
+}
+.line14{
+    width: 100%;
+    border: 4px solid black;
+}
+.box41{
+    width: 100%;
+    height: 159px;
+    background-color: rgb(255, 255, 255);
+}
+.box42{
+    width: 100%;
+    height: 165px;
+    background-color: rgb(255, 255, 255);
+}
+.line15{
+    width: 100%;
+    border: 4px solid black;
+}
+.box43{
+    width: 100%;
+    height: 71px;
+    background-color: rgb(255, 255, 255);
+}
+.textbox{
+    width: 100%;
+    height: 705px;
+    color: #707070;
+    text-align: center;
+    font-size: 36px;
+    font-family:"Noto Serif KR,", serif;    
+}
+.box44{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.box45{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.line16{
+    width: 100%;
+    border: 4px solid black;
+
+
+}
+.box46{
+    width: 100%;
+    height: 159px;
+    background-color: rgb(255, 255, 255);
+}
+.box47{
+    width: 100%;
+    height: 117px;
+    background-color: white;
+}
+.line17{
+    width: 100%;
+    border: 4px solid black;
+}
+.box48{
+    width: 100%;
+    height: 84px;
+    background-color: white;
+}
+
+.textbox22{
+    width: 799px;
+    height: 261px;
+    margin: 0% auto;
+    font-size: 40px;
+    text-align: center;
+    font-family:"Noto Serif KR,", serif;
+}
+.box49{
+    width: 100%;
+    height: 84px;
+    background-color: white;
+
+}
+.line18{
+    width: 100%;
+    border: 4px solid black;
+
+}
+.box50{
+    width: 100%;
+    height: 84px;
+    background-color: white;
+}
+.textbox23{
+    width: 100%;
+    height: 344px;
+    color: #707070;
+    font-size: 40px;
+    text-align: center;
+    font-family:"Noto Serif KR,", serif;
+
+}
+.box51{
+    width: 100%;
+    height: 92px;
+    background-color: white;
+}
+.box52{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+}
+.box53{
+    width: 100%;
+    height: 95px;
+    background-color: white;
+
+}
+.block10{
+    width: 100%;
+    height: 144px;
+    margin: 0% auto;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+}
+
+ .textbox24{ 
+   width: 950px;
+   height: 74px;
+   font-size: 40px;
+   font-family: "Noto Serif KR,", serif;
+   text-align: center;
+   margin: 0 auto;
+   color: rgb(255, 255, 255);
+   position: absolute;
+   font-weight: bold;
+   top: 50%;
+   left: 50%;
+   transform: translateX(-50%) translateY(-50%);
+}
+.box54{
+    width: 100%;
+    height: 139px;
+    background-color: white;
+
+}
+.box55{
+    width: 100%;
+    height: 161px;
+    background-color: white;
+
+}
+.center{
+    width: 1577px;
+    height: 507px;
+    color: #707070;
+    font-size: 40px;
+    text-align: center;
+    font-family:"Noto Serif KR,", serif;
+    font-display: flex;
+    
+}
+.box56{
+    width: 100%;
+    height: 156px;
+    background-color: white;
+
+}
+.line19{
+    width: 100%;
+    border: 4px solid black;
+}
+.box57{
+    width: 100%;
+    height: 93px;
+    background-color: white;
+}
+.box58{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+}
+.right{
+    text-align: right;
+}
+.right2{
+    text-align: right;
+}
